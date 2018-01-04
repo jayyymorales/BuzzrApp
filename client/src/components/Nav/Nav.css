@@ -1,0 +1,34 @@
+.navbar-brand {
+    font-size: 48px;
+    color: #fff !important;
+
+}
+
+.navbar-inverse {
+    position: fixed;
+    background-color: #24292e !important;
+    z-index: 1;
+    width: 100%;
+  }
+.navbar-inverse .navbar-brand {
+    color: #24292e;
+}
+.logo {
+  text-align: center;
+}
+.navbar-header {
+    width: 100;
+}
+.collapsed.navbar-toggle {
+    margin-right: 4%;
+}
+.navbar {
+  border-radius: 0;
+  font-style: normal;
+  padding-bottom: 0px;
+  border-style: solid;
+  border-color: #fff !important;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+}

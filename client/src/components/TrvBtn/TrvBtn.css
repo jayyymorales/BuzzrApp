@@ -1,0 +1,20 @@
+
+.btn {
+    background-color: #fff !important;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #24292e;
+    color: #24292e;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 16px;
+    cursor: pointer;
+    margin: 25px 0;
+  }
+  .btn:hover {
+    background-color: white !important;
+    color: #24292e !important;
+    border-style: solid;
+    border: 1px solid #24292e;
+
+}
